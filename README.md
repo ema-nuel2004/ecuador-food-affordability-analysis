@@ -89,24 +89,6 @@ $$
 
 ---
 
-## Qué mantiene de la versión original y qué mejora
-
-### Se conserva
-- tono profesional de research repo;
-- README con narrativa económica, badges y estructura clara;
-- foco en Ley de Engel, cobertura y forecasting;
-- uso de `fable` / `tidyverts` para proyección.
-
-### Se mejora
-- carpeta `documents/` con **fuentes oficiales y manifiesto**;
-- separación explícita entre **dato exacto oficial**, **dato reconstruido** y **fallback reproducible**;
-- anclas exactas oficiales para la CFB de diciembre 2015–2025;
-- serie oficial del SBU 2015–2025;
-- chequeo robusto de outliers en variaciones mensuales, evitando marcar los extremos iniciales/finales cuando la ventana móvil todavía no es estable;
-- explicación transparente del pipeline cuando el archivo local del BCE/INEC no trae una serie mensual completa fácilmente extraíble.
-
----
-
 ## Estructura del proyecto
 
 ```text
@@ -211,6 +193,6 @@ Rscript -e "rmarkdown::render('R/02_analysis_report.Rmd', output_dir = 'outputs'
 
 MIT
 
-## AUTOR
+## Autor
 **Guido Emanuel Armas Santafé**
 **guido.armas.santafe@ubi.pt**
