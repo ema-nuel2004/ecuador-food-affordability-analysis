@@ -19,7 +19,9 @@ Este repositorio estudia cómo evolucionó la asequibilidad de la **Canasta Fami
 
 La lectura sustantiva es clara. El costo oficial de la CFB pasó de **USD 673,21 en diciembre de 2015** a **USD 819,01 en diciembre de 2025**, mientras que el SBU pasó de **USD 354** a **USD 470** en el mismo período. Con un solo SBU, la cobertura de la canasta siguió siendo estructuralmente insuficiente. Incluso usando un proxy de ingreso del hogar de **1,6 perceptores × SBU**, la cobertura siguió debajo del 100% hacia finales de 2025 bajo el enfoque conservador del proyecto.
 
-El resultado es un repo listo para portafolio técnico, tesis aplicada o trabajo de policy analytics: documentado, reproducible, explícito sobre sus supuestos y diseñado para reemplazar fácilmente las series reconstruidas cuando se disponga del archivo mensual completo del INEC.
+En términos sustantivos, el estudio muestra que entre 2015 y 2025 el encarecimiento de la Canasta Familiar Básica en Ecuador superó la capacidad de ajuste del salario mínimo individual, manteniendo una restricción persistente de asequibilidad para los hogares. Aunque el SBU registró incrementos nominales a lo largo del período, dichos ajustes no resultaron suficientes para cerrar de forma plena la brecha frente al costo de la canasta. La evidencia sugiere, por tanto, una mejora parcial en cobertura, pero no una convergencia completa hacia condiciones de asequibilidad plena.
+
+Desde una perspectiva técnica, el proyecto confirma la utilidad de combinar deflactación por IPC, métricas de cobertura e identificación de brechas con modelado de series de tiempo para evaluar bienestar económico de manera más rigurosa que con comparaciones nominales simples. El ejercicio de pronóstico para 2026 refuerza la hipótesis de continuidad en la presión sobre el costo de la canasta, incluso bajo trayectorias inerciales razonables.
 
 ---
 
