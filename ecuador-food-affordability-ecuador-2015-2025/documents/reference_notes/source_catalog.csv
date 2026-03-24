@@ -1,0 +1,17 @@
+category,year,title,url,notes
+INEC,2015,Informe Ejecutivo Canastas Analíticas dic-2015,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/canastas/Canastas_2015/Diciembre/1.%20Informe_Ejecutivo_Canastas_Analiticas_dic2015.pdf,CFB diciembre 2015 = 673.21
+INEC,2016,Reporte inflación diciembre 2016,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2016/InflacionDiciembre2016/Reporte_inflacion_201612%20v2.pdf,CFB diciembre 2016 = 700.96
+INEC,2017,Presentación IPC diciembre 2017,https://www.ecuadorencifras.gob.ec/wp-content/uploads/downloads/2018/05/Reporte_inflacion_201712.pdf,CFB diciembre 2017 = 708.98
+INEC,2018,Boletín técnico IPC diciembre 2018,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2018/Diciembre-2018/Boletin_tecnico_12-2018-IPC.pdf,CFB diciembre 2018 = 715.16
+INEC,2019,Boletín técnico IPC diciembre 2019,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2019/Diciembre-2019/Boletin_tecnico_12-2019-IPC.pdf,CFB diciembre 2019 = 715.08
+INEC,2020,Boletín técnico IPC diciembre 2020,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2020/Diciembre-2020/Bolein_tecnico_12-2020-IPC.pdf,CFB diciembre 2020 = 710.08
+INEC,2021,Boletín técnico IPC diciembre 2021,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2021/Diciembre-2021/Bolet%C3%ADn_t%C3%A9cnico_12-2021-IPC.pdf,CFB diciembre 2021 = 719.65
+INEC,2022,Boletín técnico IPC diciembre 2022,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2022/Diciembre_2022/Bolet%C3%ADn_t%C3%A9cnico_12-2022-IPC.pdf,CFB diciembre 2022 = 763.44
+INEC,2023,Boletín técnico IPC diciembre 2023,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2023/Diciembre/Boletin_tecnico_12-2023-IPC.pdf,CFB diciembre 2023 = 786.31
+INEC,2024,Boletín técnico IPC diciembre 2024,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2024/Diciembre/Boletin_tecnico_12-2024-IPC.pdf,CFB diciembre 2024 = 797.97
+INEC,2025,Boletín técnico IPC diciembre 2025,https://www.ecuadorencifras.gob.ec/documentos/web-inec/Inflacion/2025/Diciembre/Boletin_tecnico_12-2025-IPC.pdf,CFB diciembre 2025 = 819.01
+INEC,NA,Canasta portal,https://www.ecuadorencifras.gob.ec/canasta/,Hogar tipo de 4 miembros con 1.6 perceptores
+MDT,2025,Acuerdo Ministerial MDT-2024-300,https://www.trabajo.gob.ec/wp-content/uploads/2024/12/ACUERDO-MINISTERIAL-NRO.-MDT-2024-300-signed.pdf,SBU 2025 = 470
+MDT,2025,Nota oficial SBU 2025,https://www.trabajo.gob.ec/el-salario-basico-unificado-del-trabajador-en-general-para-el-ano-2025-sera-de-usd-47000/,Confirmación narrativa del SBU 2025
+BCE,NA,Serie histórica inflación e IPC,https://contenido.bce.fin.ec/documentos/Administracion/bi_menuInflacion.html,Menú oficial de series BCE
+BCE,NA,Serie histórica salario y componentes,https://contenido.bce.fin.ec/documentos/Administracion/bi_menuSalarios.html,Menú oficial de series salariales BCE

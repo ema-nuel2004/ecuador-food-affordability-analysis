@@ -1,0 +1,13 @@
+ECUADOR FOOD AFFORDABILITY - EXECUTIVE SUMMARY
+================================================
+December 2015 CFB: USD 673.21
+December 2025 CFB: USD 819.01
+December 2025 SBU: USD 470
+December 2025 household income proxy (1.6 x SBU): USD 752
+Coverage, one SBU, Dec-2025: 57.39%
+Coverage, household proxy, Dec-2025: 91.82%
+Household affordability gap, Dec-2025: USD 67.01
+ARIMA forecast, Dec-2026: USD 837.34
+ARIMA 95% interval, Dec-2026: [USD 819.31, USD 855.37]
+CPI mode used by script: fallback_cpi_reconstructed
+Interpretation note: monthly CFB is reconstructed between official December INEC anchors; CPI ran in the mode reported above.
